@@ -1,5 +1,4 @@
 - Desenvolvedor Front-end e Back-end
-- Estou estudando Java, Javascript, Typescript, Python, CSS, HTML e React
 - Me contate: th0608thiago@gmail.com
 
 
