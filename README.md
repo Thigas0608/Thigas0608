@@ -1,5 +1,5 @@
 - Desenvolvedor Front-end e Back-end
-- Me contate: th0608thiago@gmail.com
+- E-mail: th0608thiago@gmail.com
 
 
  <div>
