@@ -18,7 +18,7 @@
 
 ## 💻 Tecnologias
 
-![Tecnologias](https://skills.thijs.gg/icons?i=java,javascript,typescript,python,css,html,react,c)
+![Tecnologias](https://skills.thijs.gg/icons?i=java,javascript,typescript,python,css,html,react,c,mysql)
 
 Junte-se a mim nesta jornada, vamos explorar o mundo da tecnologia juntos! 🌟
 
